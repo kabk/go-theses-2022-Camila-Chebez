@@ -1,2 +1,3 @@
-# go-theses-2022-Camila-Chebez
- 
+# A boilerplate template with 'boilerplate' CSS
+
+Somewhat 'default' styling
