@@ -276,7 +276,7 @@ main{
   height: 100vh;
   position: absolute;
   z-index: 0;
-  background-image: url('../images/marginsbackground.png');
+  background-image: url('../images/IntroImage1.png');
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -291,10 +291,10 @@ main{
 .category {
   top: 0;
   position: sticky;
-  height: 30vh;
+  height: 60vh;
   left: 0;
   display: inline ;
-  margin-left: -180px;
+  margin-left: -60px;
   float: left;
   opacity: 0.8;
 }
