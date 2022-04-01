@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
-// functions go here
-
+    $.bigfoot({
+        actionOriginalFN: "ignore"
+    });
+    
 });
