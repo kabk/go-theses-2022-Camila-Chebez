@@ -289,12 +289,12 @@ main{
 }
 
 .category {
-  top: 0;
+  top: 12px;
   position: sticky;
   height: 60vh;
   left: 0;
   display: inline ;
-  margin-left: -60px;
+  margin-left: -80px;
   float: left;
   opacity: 0.8;
 }
@@ -340,6 +340,16 @@ opacity: 1;
   margin: auto;
   display: block;
 
+}
+
+#last_image {
+  width: auto;
+  height: 100vw;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
 }
 
 #first_image {
